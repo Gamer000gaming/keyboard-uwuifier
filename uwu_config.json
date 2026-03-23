@@ -1,0 +1,18 @@
+{
+  "replacements": {
+    "r": "w",
+    "l": "w",
+    "R": "W",
+    "L": "W",
+    "na": "nya",
+    "no": "nyo",
+    "ni": "nyi",
+    "ne": "nye"
+  },
+  "stutter_chance": 0.2,
+  "suffixes": [
+    "owo",
+    "uwu",
+    "nyaa~"
+  ]
+}
